@@ -1,8 +1,16 @@
 # AtmMachine_project
-A simple Java-based ATM simulation allowing users to interact with an ATM through a console interface. Key features include:
+ATM Machine Simulation Project
 
-    PIN Authentication: Users must enter a correct PIN (default: 1105) to access functionalities.
-    Menu Options: Choose from checking balance, withdrawing money, depositing money, or exiting.
-    Transactions: Handle balance checks, withdrawals (with balance verification), and deposits.
+Description:
 
-The project demonstrates basic Java programming and console-based user interactions.
+This Java-based ATM Machine Simulation provides a basic but functional representation of an ATM system. Users can interact with the simulation to perform essential banking operations, including checking their account balance, withdrawing or depositing money, changing their PIN, and viewing transaction history. The system ensures security by verifying the PIN before granting access to the menu options. Transaction history is maintained to track all deposits and withdrawals, enhancing user transparency and record-keeping.
+
+Key Features:
+
+    Account Balance Inquiry: View the current account balance.
+    Cash Withdrawal: Withdraw funds while ensuring sufficient balance.
+    Cash Deposit: Deposit funds into the account.
+    PIN Change: Update the account PIN for enhanced security.
+    Transaction History: Access a log of all recent transactions.
+
+This simulation helps in understanding basic ATM functionalities and the handling of user inputs in a secure and organized manner.
